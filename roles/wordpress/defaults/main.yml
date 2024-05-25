@@ -1,0 +1,9 @@
+---
+# defaults file for wordpress
+# Variables pour la DB WordPress
+# Author: Sylvain Ake 
+# Date: May 2024
+
+mysql_db: "wordpdb"
+mysql_user: "wordu"
+mysql_password: "space123"
